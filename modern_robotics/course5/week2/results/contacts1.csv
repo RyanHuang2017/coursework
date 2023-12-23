@@ -1,0 +1,11 @@
+# contacts1.csv file for evaluating stablity of assembly.
+# All lines beginning with a # are treated as a comment and ignored.
+# Each line below is of the form
+# id1,id2,contact location,normal direction,friction coefficient
+# where id1 and id2 are the two bodies involved in the contact,
+# and contact normal direction is the angle of inward-pointing contact
+# with respective to the positive x-axis.
+1,0,0,0,90,0.1
+1,2,60,60,180,0.5
+2,0,60,0,90,0.5
+2,0,72,0,90,0.5

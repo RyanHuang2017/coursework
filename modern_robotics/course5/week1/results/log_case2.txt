@@ -1,0 +1,6 @@
+(base) xxx@xxx-MBP-4 code % python form_closure.py 
+Form closure FAILED
+the resulting coefficient vector is: 
+[3.53153819 3.53153819 3.53153819]
+the resultant Fk is: 
+[ 4.58495464e-11 -3.53153819e+00 -7.06307639e+00]

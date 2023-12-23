@@ -1,0 +1,8 @@
+# assembly3.csv file for evaluating stablity of assembly.
+# All lines beginning with a # are treated as a comment and ignored.
+# Each line below is of the form
+# id,x,y,total mass
+# where x and y are the location of the center of mass.
+1,-1.16667,0.67358,10
+2,0,1.34715,10
+3,1.16667,0.67358,10

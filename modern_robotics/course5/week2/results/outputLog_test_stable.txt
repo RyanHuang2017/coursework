@@ -1,0 +1,8 @@
+(base) xxx@xxx-MBP-4 code % python stability_evaluation.py
+Assembly is Stable.
+the resulting coefficient vector is: 
+[3.35130688e+00 1.55378774e+01 3.54524744e-09 6.09328524e+00
+ 1.47622367e+01 1.26575468e+01 4.76939369e+01 3.76120564e+01]
+the resultant Fk + Fext is: 
+[ 2.32064394e-08  1.08343013e-10  1.07993969e-09  3.84346095e-07
+ -1.08447990e-10  5.72498493e-09]

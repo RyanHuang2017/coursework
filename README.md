@@ -1,2 +1,2 @@
 # coursework
-this repo includes assignments and projects for some courses
+This repo includes assignments and projects for some courses

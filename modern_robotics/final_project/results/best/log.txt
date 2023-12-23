@@ -1,0 +1,5 @@
+(base) xxx@xxx-MBP-4 code % python run_best.py 
+Generating animation csv file.
+Visualizing xerr plot data ...
+Writing xerr plot data.
+Done.

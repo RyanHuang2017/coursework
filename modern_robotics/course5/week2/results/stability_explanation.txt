@@ -1,0 +1,17 @@
+this is a stability explanation for the self-designed assembly.
+Assume that 
+1. all the three bodies included in the assembly have a self-weight of m;
+2. interfaces among these three bodies are frictionless;
+3. interface between the three bodies and the ground has friction and the friction coefficient is miu.
+4. internal force between 1 and 2, 2 and 3 is N
+
+To make the assembly stand on the ground,
+The internal force between 1 and 2, 2 and 3 should satisfy:
+2*N*cos 60deg = mg
+the frictions applied on the body 1 and 3 should satisfy:
+N * cos 30deg = miu * (mg + N * sin 30deg)
+
+Therefore, we can determine that miu should be no less than 0.5773.
+
+The set of friction coefficent considered in contacts3.csv is less than 0.5773, therefore the assembly collapses
+on the contary, the set of friction coefficient in contacts4.csv is higher than 0.5773, therefore the assembly stands.
